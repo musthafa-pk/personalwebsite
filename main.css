@@ -40,6 +40,8 @@ html{
 }
 .profile-image{
   padding-top:10em ;
+  color: #2e2250;
+  opacity: 75%;
 
 }
 .home-text{
@@ -76,6 +78,9 @@ html{
   .heading1{
       color: #2e2250;
       padding-top: 2px;
+  }
+  .bar{
+    color: #2e2250;
   }
  
   .para1{
@@ -490,6 +495,11 @@ html{
   height:34px;
   width:34px;
   font-size:14px
+
+}
+.social-icons a.github:hover
+{
+  background-color:#626262
 }
 .social-icons a.facebook:hover
 {
